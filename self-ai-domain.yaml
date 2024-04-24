@@ -1,5 +1,6 @@
 # ---------------------------------------------------------#
 #   一些自己标记的 AI 网站
+#   基于：https://ruleset.skk.moe/Clash/non_ip/ai.txt
 # ---------------------------------------------------------#
 payload:
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
