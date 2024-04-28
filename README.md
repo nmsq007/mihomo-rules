@@ -1,2 +1,2 @@
 # mihomo-rules
-A mihomo rules that designed for by me.
+A mihomo rule that designed by me and for me.
