@@ -1,0 +1,10 @@
+# ---------------------------------------------------------#
+#   一些自己标记的网站，我认为应该是用 ""非百度" "的国内直连/国内节点 
+# ---------------------------------------------------------#
+payload:
+  - DOMAIN-SUFFIX,openai.weixin.qq.com
+  - DOMAIN-SUFFIX,open.e.189.cn
+  - DOMAIN-SUFFIX,mayi.art
+  - DOMAIN-SUFFIX,94speed.com
+  - DOMAIN-SUFFIX,abchina.com.cn
+  - DOMAIN-SUFFIX,cloud.fooview.com
