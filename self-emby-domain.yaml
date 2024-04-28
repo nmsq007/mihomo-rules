@@ -1,0 +1,12 @@
+# ---------------------------------------------------------#
+#   一些自己标记的 emby 网站
+# ---------------------------------------------------------#
+payload:
+  - DOMAIN-SUFFIX,emby-us-v4.mius.uk
+  - DOMAIN-SUFFIX,789.123456.al
+  - DOMAIN-SUFFIX,emby1.misakaf.org
+  - DOMAIN-SUFFIX,emby2.misakaf.org
+  - DOMAIN-SUFFIX,stream1.misakaf.org
+  - DOMAIN-SUFFIX,stream2.misakaf.org
+  - DOMAIN-SUFFIX,stream3.misakaf.org
+  - DOMAIN-SUFFIX,stream4.misakaf.org
