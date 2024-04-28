@@ -26,5 +26,4 @@ payload:
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-KEYWORD,openai
   - DOMAIN-SUFFIX,coze.com
