@@ -2,7 +2,7 @@
 #   一些自己标记的广告，使用 REJECT
 # ---------------------------------------------------------#
 payload:
-  - DOMAIN,mcdn.bilivideo.cn
+  - DOMAIN-SUFFIX,mcdn.bilivideo.cn
   - DOMAIN,tracker.biliapi.net
   - DOMAIN-SUFFIX,chat.bilibili.com
   - DOMAIN-SUFFIX,szbdyd.com
